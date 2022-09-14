@@ -22,3 +22,10 @@ http://localhost:18080/jqHNa
 ## Demo
 
 [uuw.io](https://uuw.io/)
+
+## Links
+
+- [yihleego/murmurhash3](https://github.com/yihleego/murmurhash3)
+- [yihleego/base62](https://github.com/yihleego/base62)
+- [MurmurHash - Wikipedia](https://en.wikipedia.org/wiki/MurmurHash)
+- [Base62 - Wikipedia](https://en.wikipedia.org/wiki/Base62)
